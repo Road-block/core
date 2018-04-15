@@ -84,6 +84,7 @@ ipch
 CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
+CMakeSettings.json
 
 #
 # OS specific
